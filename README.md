@@ -1,5 +1,7 @@
 # mbp-scripts
-Scripts to manage thermals and power on a Macbook pro late 2013 with Endeavour OS/Arch
+Scripts to manage thermals and power on a Macbook pro late 2013 with Endeavour OS/Arch.
+
+Companion repo to Arch/EndeavourOS on Macbook Pro Retina late 2013 fixes and optimizations gist: https://gist.github.com/spidernik84/f6e0eefb5c981f5036934b822ee9f47f
 
 
 ## mbpfreq-switch
